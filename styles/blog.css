@@ -1,0 +1,29 @@
+nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
+nav li > a{
+    text-decoration: none;
+
+
+}
+footer{
+    margin-top: 30px;
+
+    text-align: center;
+}
+
+h3{
+
+    color: blueviolet;
+}
+section > p{
+background-color: coral;
+margin: 10px;
+border: 5px black solid;
+padding: 10px;
+box-shadow: 10px 10px 10px green;
+
+}
+
+
